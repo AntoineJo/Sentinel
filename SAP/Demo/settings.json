@@ -1,5 +1,5 @@
 {
-"Base":"raw.githubusercontent.com/AntoineJo/M365DDemos/main/SAP/Demo/",
+"Base":"raw.githubusercontent.com/AntoineJo/Sentinel/main/SAP/Demo/",
 "Scenarios":[
 	"1-ICF_Service_Activated",
 	"2-Change_In_Sensitive_Privileged_User",
