@@ -1,5 +1,5 @@
 {
-"Base":"raw.githubusercontent.com/AntoineJo/M365DDemos/main/SAP/Demo/Login_and_Heartbeat_Hourly/",
+"Base":"raw.githubusercontent.com/AntoineJo/Sentinel/main/SAP/Demo/Login_and_Heartbeat_Hourly/",
 "Scenarios":[
 	"100-User_Logins_Over_Time",
 	"9-Agent_Heartbeat"	
