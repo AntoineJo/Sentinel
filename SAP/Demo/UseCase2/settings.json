@@ -1,5 +1,5 @@
 {
-"Base":"raw.githubusercontent.com/AntoineJo/M365DDemos/main/SAP/Demo/UseCase2/",
+"Base":"raw.githubusercontent.com/AntoineJo/Sentinel/main/SAP/Demo/UseCase2/",
 "Scenarios":[	
 	"1-ICF_Service_Activated",	
 	"6-Execution_of_a_Sensitive_Transaction_Code"	
