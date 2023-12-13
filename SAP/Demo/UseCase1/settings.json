@@ -1,5 +1,5 @@
 {
-"Base":"raw.githubusercontent.com/AntoineJo/M365DDemos/main/SAP/Demo/UseCase1/",
+"Base":"raw.githubusercontent.com/AntoineJo/Sentinel/main/SAP/Demo/UseCase1/",
 "Scenarios":[	
 	"4-Deactivation_of_Security_Audit_Log",	
 	"100-User_Logins_Over_Time"	
